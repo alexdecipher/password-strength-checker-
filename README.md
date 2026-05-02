@@ -1,4 +1,4 @@
-\# 🔐 Password Strength Checker
+# 🔐 Password Strength Checker
 
 
 
@@ -6,15 +6,15 @@ A simple Python tool that checks whether a password is Weak, Medium, or Strong.
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
-\- Checks length
+- Checks length
 
-\- Detects uppercase, lowercase, numbers, and symbols
+- Detects uppercase, lowercase, numbers, and symbols
 
 
 
-\## 🛠️ Installation
+## 🛠️ Installation
 
 ```bash
 
